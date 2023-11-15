@@ -1,36 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Issue Tracker
 
-## Getting Started
+This project, named "Issue Tracker," is a practical implementation inspired by Code with Mosh's Next.js course. It serves as a learning exercise for Next.js, a React framework, and incorporates several technologies such as Tailwind CSS, Radix UI, Zod, Prisma, and MySQL.
 
-First, run the development server:
+## Technologies Used
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [Next.js](https://nextjs.org/): A React framework for building web applications.
+- [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework.
+- [Radix UI](https://radix-ui.com/): A set of low-level UI primitives for building design systems.
+- [Zod](https://github.com/colinhacks/zod): A TypeScript-first schema declaration and validation library.
+- [Prisma](https://www.prisma.io/): A modern database toolkit for TypeScript and Node.js.
+- [MySQL](https://www.mysql.com/): An open-source relational database management system.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Project Overview
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The "Issue Tracker" project is designed to apply the concepts learned from the Next.js course by Code with Mosh. It focuses on building a practical issue tracking system while utilizing various modern technologies to enhance the development experience.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Please note that this repository is primarily intended for educational purposes and serves as a personal code practice for mastering Next.js. Contributions and suggestions are welcome, but keep in mind that the main goal is to refine Next.js skills.

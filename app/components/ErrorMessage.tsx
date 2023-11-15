@@ -1,0 +1,11 @@
+import { PropsWithChildren } from "react";
+import { Text } from "@radix-ui/themes";
+const ErrorMessage = ({ children }: PropsWithChildren) => {
+  return (
+    <Text color="red" as="p" className="text-sm font-medium">
+      {children}
+    </Text>
+  );
+};
+
+export default ErrorMessage;
